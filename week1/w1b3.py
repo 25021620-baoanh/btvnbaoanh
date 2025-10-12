@@ -1,0 +1,8 @@
+a = int(input("so a:"))
+b = int(input("so b:"))
+print(f"tong cua a va b la a+b= {a+b}")
+print(f"hieu cua a va b la a-b= +{a-b}")
+print(f"tich cua a va b la a.b={a*b}")
+print(f"thuong cua a va b la a:b={a/b:.2f}")
+print(f"du:{a%b}")
+print(f"phan nguyen:{a/b:.0f}")

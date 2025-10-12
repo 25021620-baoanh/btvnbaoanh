@@ -1,0 +1,7 @@
+a=int(input("so1:"))
+b=int(input("so2:"))
+c=int(input("so3:"))
+d=int(input("so4:"))
+e=int(input("so5:"))
+f=int(input("so6:"))
+print(f"trungbinhcong:{((a+b+c)+(d+e)*2+f*3)/10:.1f}")
